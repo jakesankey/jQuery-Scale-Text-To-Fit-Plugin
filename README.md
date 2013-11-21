@@ -5,5 +5,6 @@ jQuery plugin to automatically shrink font size of element until it fits parent 
 
 
 Usage:
-
+```javascript
 $('.someclass').scaleToFit();
+```
